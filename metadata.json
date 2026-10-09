@@ -1,0 +1,6 @@
+{
+  "name": "ProofLane - Client Milestone & Deliverable Portal",
+  "description": "Client deliverable approval and milestone payment tracker powered by Java Spring Boot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
